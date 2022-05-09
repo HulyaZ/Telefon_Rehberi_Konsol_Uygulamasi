@@ -34,7 +34,7 @@ namespace Patika_C101_TelefonRehberi
                     SearchForContact();
                     break;
                 default:
-                    Console.WriteLine("default");
+                    Console.WriteLine("Böyle bir işlem bulunmamaktadır.");
                     break;
             }
         }
